@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/env python
 # -*- Mode: Python; coding: utf-8; indent-tabs-mode: nil; tab-width: 4 -*-
 ### BEGIN LICENSE
 #
@@ -29,7 +29,7 @@ user_desktop_file_directory = user_home_directory + user_relative_desktop_file_d
 global_desktop_file_directory = '/usr/share/applications/'
 
 #ICONS FILE PATH
-icon_file_directory = '/usr/share/icons/hicolor/48x48/apps/'
+icon_file_directory = '/usr/share/icons/hicolor/scalable/apps/'
 
 #ACCEPTED COMPRESSION
 compression_list=['jpeg','proxy','rgb','yuv','xv']
