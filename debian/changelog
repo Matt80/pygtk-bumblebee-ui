@@ -1,0 +1,8 @@
+bumblebee-ui (0.9+git20120315-0.1) matt; urgency=low
+
+  * Packaged for debian
+  * Fix debian/control and debian/rules
+  * Use "python" instead of "python2" for debian system
+  * Fix icons
+
+ -- Matt <matteo_aquilano@hotmail.com>  Thu, 15 Mar 2012 13:41:13 +0100
